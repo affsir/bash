@@ -1,0 +1,36 @@
+脚本用法:
+=============================================================================================
+wget -N --no-check-certificate https://raw.githubusercontent.com/affsir/bash/master/bench/bench.sh
+
+chmod +x bench.sh
+
+bash ./bench.sh -a share
+
+=============================================================================================
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/affsir/bash/master/91yuntest/test.sh
+
+chmod +x test.sh
+
+bash test.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
